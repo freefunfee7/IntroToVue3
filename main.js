@@ -16,6 +16,7 @@ const app = Vue.createApp({
             ],
             sizes: ['XS', 'S', 'M', 'L', 'XL', 'XXL', 'XXXL'],
             cart: 0,
+            activeClass: false
         }
     },
 
